@@ -167,16 +167,20 @@ libraries[underscore][directory_name] = underscore
 libraries[underscore][download][type] = get
 libraries[underscore][download][url] = https://github.com/documentcloud/underscore/archive/master.zip
 
-; imagesLoaded.
+; Library: imagesLoaded.
 libraries[jquery.imagesloaded][download][type] = file
 libraries[jquery.imagesloaded][download][url] = https://github.com/desandro/imagesloaded/archive/v2.1.2.tar.gz
 libraries[jquery.imagesloaded][download][subtree] = imagesloaded-2.1.2
 
-; imgAreaSelect.
+; Library: imgAreaSelect.
 libraries[jquery.imgareaselect][download][type] = file
 libraries[jquery.imgareaselect][download][url] = http://odyniec.net/projects/imgareaselect/jquery.imgareaselect-0.9.10.zip
 libraries[jquery.imgareaselect][download][subtree] = jquery.imgareaselect-0.9.10
 
+; Library: Foundation.
+libraries[foundation][directory_name] = foundation
+libraries[foundation][download][type] = get
+libraries[foundation][download][url] = https://github.com/zurb/bower-foundation/archive/5.5.3.zip
 
 
 ; =====================================
