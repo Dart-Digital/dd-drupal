@@ -30,6 +30,7 @@ projects[backup_migrate][version] = "3.1"
 projects[ctools][version] = "1.9"
 
 projects[ckeditor][version] = "1.16"
+projects[ckeditor][patch][] = "https://www.drupal.org/files/issues/Issue_2454933_0.patch"
 
 projects[coffee][version] = "2.2"
 
