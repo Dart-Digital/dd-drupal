@@ -141,6 +141,7 @@ projects[search_krumo][version] = "1.6"
 ; =====================================
 
 projects[adminimal_theme][type] = "theme"
+projects[adminimal_theme][subdir] = ""
 projects[adminimal_theme][version] = "1.23"
 
 
