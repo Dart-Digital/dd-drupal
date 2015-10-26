@@ -75,6 +75,9 @@ projects[multiform][version] = "1.1"
 
 projects[navbar][version] = "1.6"
 
+projects[navbar_local_tasks][download][type] = "git"
+projects[navbar_local_tasks][download][url] = "git://github.com/Dart-Digital/navbar_local_tasks.git"
+
 projects[options_element][version] = "1.12"
 
 projects[panelizer][version] = "3.1"
