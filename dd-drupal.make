@@ -101,6 +101,8 @@ projects[strongarm][version] = "2.0"
 
 projects[token][version] = "1.6"
 
+projects[token_filter][version] = "1.1"
+
 projects[transliteration][version] = "3.2"
 
 projects[uuid][version] = "1.0-beta1"
