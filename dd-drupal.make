@@ -97,6 +97,8 @@ projects[save_draft][version] = "1.4"
 
 projects[simplified_menu_admin][version] = "1.0"
 
+projects[stage_file_proxy][version] = "1.7"
+
 projects[strongarm][version] = "2.0"
 
 projects[token][version] = "1.6"
