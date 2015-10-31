@@ -42,11 +42,11 @@ projects[fape][version] = "1.2"
 
 projects[features][version] = "2.7"
 
-projects[field_collection][version] = "1.0-beta8"
+projects[field_collection][version] = "1.0-beta10"
 
 projects[field_group][version] = "1.4"
 
-projects[fieldable_panels_panes][version] = "1.6"
+projects[fieldable_panels_panes][version] = "1.7"
 
 projects[file_entity][version] = "2.0-beta2"
 
@@ -56,7 +56,7 @@ projects[panels][version] = "3.5"
 
 projects[image_resize_filter][version] = "1.16"
 
-projects[jquery_update][version] = "2.6"
+projects[jquery_update][version] = "2.7"
 
 projects[libraries][version] = "2.2"
 
@@ -85,7 +85,7 @@ projects[panelizer][version] = "3.1"
 
 projects[path_redirect_import][version] = "1.0-rc4"
 
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
 projects[plupload][version] = "1.7"
 
@@ -113,7 +113,7 @@ projects[views][version] = "3.11"
 
 projects[views_bulk_operations][version] = "3.3"
 
-projects[webform][version] = "4.10"
+projects[webform][version] = "4.12"
 
 projects[webform_ajax][version] = "1.1"
 
