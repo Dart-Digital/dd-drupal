@@ -57,6 +57,7 @@ projects[panels][version] = "3.5"
 projects[image_resize_filter][version] = "1.16"
 
 projects[jquery_update][version] = "2.7"
+projects[jquery_update][patch][] = "https://www.drupal.org/files/issues/2156881-jquery_update-jquery_migrate_support-14.patch"
 
 projects[libraries][version] = "2.2"
 
