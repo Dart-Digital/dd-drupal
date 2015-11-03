@@ -88,6 +88,8 @@ projects[path_redirect_import][version] = "1.0-rc4"
 
 projects[pathauto][version] = "1.3"
 
+projects[phone][version] = "1.0-beta1"
+
 projects[plupload][version] = "1.7"
 
 projects[quicktabs][version] = "3.6"
