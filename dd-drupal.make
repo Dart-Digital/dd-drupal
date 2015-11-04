@@ -56,7 +56,7 @@ projects[fontawesome][version] = "2.5"
 
 projects[form_builder][version] = "1.12"
 
-projects[panels][version] = "3.5"
+projects[globalredirect][version] = "1.5"
 
 projects[image_resize_filter][version] = "1.16"
 
@@ -87,6 +87,8 @@ projects[navbar_local_tasks][download][url] = "git://github.com/Dart-Digital/nav
 projects[options_element][version] = "1.12"
 
 projects[panelizer][version] = "3.1"
+
+projects[panels][version] = "3.5"
 
 projects[path_redirect_import][version] = "1.0-rc4"
 
