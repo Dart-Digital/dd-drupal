@@ -52,6 +52,8 @@ projects[fieldable_panels_panes][version] = "1.7"
 
 projects[file_entity][version] = "2.0-beta2"
 
+projects[fontawesome][version] = "2.5"
+
 projects[form_builder][version] = "1.12"
 
 projects[panels][version] = "3.5"
@@ -192,6 +194,11 @@ libraries[jquery.imgareaselect][download][subtree] = jquery.imgareaselect-0.9.10
 libraries[foundation][directory_name] = foundation
 libraries[foundation][download][type] = get
 libraries[foundation][download][url] = https://github.com/zurb/bower-foundation/archive/5.5.3.zip
+
+; Library: FontAwesome.
+libraries[fontawesome][directory_name] = fontawesome
+libraries[fontawesome][download][type] = get
+libraries[fontawesome][download][url] = https://github.com/FortAwesome/Font-Awesome/archive/master.zip
 
 
 ; =====================================
