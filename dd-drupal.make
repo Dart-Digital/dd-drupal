@@ -127,6 +127,7 @@ projects[webform_ajax][version] = "1.1"
 projects[webform_hints][version] = "1.5"
 
 projects[webform_panels][version] = "1.0"
+projects[webform_panels][patch][] = "https://www.drupal.org/files/issues/notice-2576627-1.patch"
 
 projects[xautoload][version] = "5.2"
 
