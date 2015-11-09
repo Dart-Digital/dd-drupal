@@ -36,6 +36,8 @@ projects[coffee][version] = "2.2"
 
 projects[configuration][version] = "2.0-alpha3"
 
+projects[draggableviews][version] = "2.1"
+
 projects[email][version] = "1.3"
 
 projects[entity][version] = "1.6"
