@@ -38,6 +38,8 @@ projects[configuration][version] = "2.0-alpha3"
 
 projects[draggableviews][version] = "2.1"
 
+projects[elements][version] = "1.4"
+
 projects[email][version] = "1.3"
 
 projects[entity][version] = "1.6"
@@ -132,6 +134,8 @@ projects[webform_hints][version] = "1.5"
 
 projects[webform_panels][version] = "1.0"
 projects[webform_panels][patch][] = "https://www.drupal.org/files/issues/notice-2576627-1.patch"
+
+projects[webform_phone][version] = "1.23"
 
 projects[xautoload][version] = "5.2"
 
