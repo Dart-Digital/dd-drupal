@@ -116,6 +116,8 @@ projects[stage_file_proxy][version] = "1.7"
 
 projects[strongarm][version] = "2.0"
 
+projects[subpathauto][version] = "1.3"
+
 projects[token][version] = "1.6"
 
 projects[token_filter][version] = "1.1"
