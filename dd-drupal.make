@@ -62,6 +62,8 @@ projects[form_builder][version] = "1.12"
 
 projects[globalredirect][version] = "1.5"
 
+projects[honeypot][version] = "1.21"
+
 projects[image_resize_filter][version] = "1.16"
 
 projects[jquery_update][version] = "2.7"
