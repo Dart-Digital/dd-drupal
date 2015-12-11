@@ -40,9 +40,11 @@ projects[draggableviews][version] = "2.1"
 
 projects[dd_panels][download][type] = "git"
 projects[dd_panels][download][url] = "git://github.com/Dart-Digital/dd_panels.git"
+projects[dd_panels][subdir] = "dart-digital"
 
 projects[dd_foundation][download][type] = "git"
 projects[dd_foundation][download][url] = "git://github.com/Dart-Digital/dd_foundation.git"
+projects[dd_foundation][subdir] = "dart-digital"
 
 projects[elements][version] = "1.4"
 
