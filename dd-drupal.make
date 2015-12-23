@@ -87,6 +87,8 @@ projects[linkit][version] = "3.4"
 
 projects[manualcrop][version] = "1.5"
 
+projects[masquerade][version] = "1.0-rc7"
+
 projects[media][version] = "2.0-beta1"
 
 projects[menu_attributes][version] = "1.0-rc3"
