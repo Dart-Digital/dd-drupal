@@ -223,6 +223,10 @@ libraries[fontawesome][directory_name] = fontawesome
 libraries[fontawesome][download][type] = get
 libraries[fontawesome][download][url] = https://github.com/FortAwesome/Font-Awesome/archive/master.zip
 
+; Library: Slick.
+libraries[fontawesome][directory_name] = slick
+libraries[fontawesome][download][type] = git
+libraries[fontawesome][download][url] = git@github.com:kenwheeler/slick.git
 
 ; =====================================
 ; Custom Modules
