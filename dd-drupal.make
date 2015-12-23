@@ -142,7 +142,7 @@ projects[transliteration][version] = "3.2"
 
 projects[uuid][version] = "1.0-beta1"
 
-projects[views][version] = "3.11"
+projects[views][version] = "3.13"
 
 projects[views_bulk_operations][version] = "3.3"
 
