@@ -70,6 +70,8 @@ projects[form_builder][version] = "1.12"
 
 projects[globalredirect][version] = "1.5"
 
+projects[google_analytics][version] = "2.1"
+
 projects[honeypot][version] = "1.21"
 
 projects[image_resize_filter][version] = "1.16"
@@ -121,6 +123,8 @@ projects[redirect][version] = "1.0-rc3"
 projects[save_draft][version] = "1.4"
 
 projects[simplified_menu_admin][version] = "1.0"
+
+projects[smtp][version] = "1.3"
 
 projects[stage_file_proxy][version] = "1.7"
 
