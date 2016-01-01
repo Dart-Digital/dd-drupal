@@ -38,6 +38,10 @@ projects[configuration][version] = "2.0-alpha3"
 
 projects[draggableviews][version] = "2.1"
 
+projects[dd_custom_component][download][type] = "git"
+projects[dd_custom_component][download][url] = "git://github.com/Dart-Digital/dd_custom_component.git"
+projects[dd_custom_component][subdir] = "dart-digital"
+
 projects[dd_panels][download][type] = "git"
 projects[dd_panels][download][url] = "git://github.com/Dart-Digital/dd_panels.git"
 projects[dd_panels][subdir] = "dart-digital"
@@ -121,6 +125,8 @@ projects[plupload][version] = "1.7"
 projects[quicktabs][version] = "3.6"
 
 projects[redirect][version] = "1.0-rc3"
+
+projects[remote_stream_wrapper][version] = "1.0-rc1"
 
 projects[save_draft][version] = "1.4"
 
