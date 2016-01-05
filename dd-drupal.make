@@ -225,20 +225,15 @@ libraries[jquery.imgareaselect][download][type] = file
 libraries[jquery.imgareaselect][download][url] = http://odyniec.net/projects/imgareaselect/jquery.imgareaselect-0.9.10.zip
 libraries[jquery.imgareaselect][download][subtree] = jquery.imgareaselect-0.9.10
 
-; Library: Foundation.
-libraries[foundation][directory_name] = foundation
-libraries[foundation][download][type] = get
-libraries[foundation][download][url] = https://github.com/zurb/bower-foundation/archive/5.5.3.zip
-
 ; Library: FontAwesome.
 libraries[fontawesome][directory_name] = fontawesome
 libraries[fontawesome][download][type] = get
 libraries[fontawesome][download][url] = https://github.com/FortAwesome/Font-Awesome/archive/master.zip
 
 ; Library: Slick.
-libraries[fontawesome][directory_name] = slick
-libraries[fontawesome][download][type] = git
-libraries[fontawesome][download][url] = git@github.com:kenwheeler/slick.git
+libraries[slick][directory_name] = slick
+libraries[slick][download][type] = git
+libraries[slick][download][url] = git@github.com:kenwheeler/slick.git
 
 ; =====================================
 ; Custom Modules
