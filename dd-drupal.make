@@ -95,7 +95,7 @@ projects[media][version] = "2.0-beta1"
 
 projects[menu_attributes][version] = "1.0-rc3"
 
-projects[metatag][version] = "1.7"
+projects[metatag][version] = "1.8"
 
 projects[module_filter][version] = "2.0"
 
