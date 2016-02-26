@@ -63,7 +63,7 @@ projects[fape][version] = "1.2"
 
 projects[features][version] = "2.7"
 
-projects[field_collection][version] = "1.0-beta10"
+projects[field_collection][version] = "1.0-beta11"
 
 projects[field_group][version] = "1.4"
 
@@ -119,6 +119,8 @@ projects[panels][version] = "3.5"
 projects[path_redirect_import][version] = "1.0-rc4"
 
 projects[pathauto][version] = "1.3"
+
+projects[pathologic][version] = "3.1"
 
 projects[phone][version] = "1.0-beta1"
 
