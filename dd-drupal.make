@@ -55,6 +55,8 @@ projects[elements][version] = "1.4"
 
 projects[email][version] = "1.3"
 
+projects[email_registration] = "1.3"
+
 projects[entity][version] = "1.6"
 
 projects[fape][version] = "1.2"
