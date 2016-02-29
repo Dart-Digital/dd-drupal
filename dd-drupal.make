@@ -97,6 +97,8 @@ projects[manualcrop][version] = "1.5"
 
 projects[masquerade][version] = "1.0-rc7"
 
+projects[minify][version] = "1.3"
+
 projects[media][version] = "2.0-beta1"
 
 projects[menu_attributes][version] = "1.0-rc3"
