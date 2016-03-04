@@ -93,6 +93,8 @@ projects[link][version] = "1.3"
 
 projects[linkit][version] = "3.4"
 
+projects[logintoboggan][version] = "1.5"
+
 projects[manualcrop][version] = "1.5"
 
 projects[masquerade][version] = "1.0-rc7"
