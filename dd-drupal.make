@@ -61,6 +61,8 @@ projects[email_registration] = "1.3"
 
 projects[entity][version] = "1.6"
 
+projects[entityreference][version] = "1.1"
+
 projects[fape][version] = "1.2"
 
 projects[features][version] = "2.7"
@@ -153,6 +155,8 @@ projects[subpathauto][version] = "1.3"
 projects[token][version] = "1.6"
 
 projects[token_filter][version] = "1.1"
+
+projects[token_modifier][version] = "1.0"
 
 projects[transliteration][version] = "3.2"
 
