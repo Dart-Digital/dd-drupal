@@ -118,6 +118,8 @@ projects[navbar][version] = "1.7"
 projects[navbar_local_tasks][download][type] = "git"
 projects[navbar_local_tasks][download][url] = "git://github.com/Dart-Digital/navbar_local_tasks.git"
 
+projects[node_export][version] = "3.0"
+
 projects[options_element][version] = "1.12"
 
 projects[panelizer][version] = "3.1"
@@ -153,6 +155,8 @@ projects[strongarm][version] = "2.0"
 projects[subpathauto][version] = "1.3"
 
 projects[token][version] = "1.6"
+
+projects[token_custom][version] = "2.0-beta3"
 
 projects[token_filter][version] = "1.1"
 
