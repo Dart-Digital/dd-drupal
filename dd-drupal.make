@@ -59,7 +59,7 @@ projects[email][version] = "1.3"
 
 projects[email_registration] = "1.3"
 
-projects[entity][version] = "1.6"
+projects[entity][version] = "1.7"
 
 projects[entityreference][version] = "1.1"
 
@@ -71,7 +71,7 @@ projects[field_collection][version] = "1.0-beta11"
 
 projects[field_group][version] = "1.4"
 
-projects[fieldable_panels_panes][version] = "1.7"
+projects[fieldable_panels_panes][version] = "1.8"
 
 projects[file_entity][version] = "2.0-beta2"
 
@@ -83,7 +83,7 @@ projects[globalredirect][version] = "1.5"
 
 projects[google_analytics][version] = "2.1"
 
-projects[honeypot][version] = "1.21"
+projects[honeypot][version] = "1.22"
 
 projects[image_resize_filter][version] = "1.16"
 
@@ -93,7 +93,7 @@ projects[libraries][version] = "2.2"
 
 projects[link][version] = "1.3"
 
-projects[linkit][version] = "3.4"
+projects[linkit][version] = "3.5"
 
 projects[logintoboggan][version] = "1.5"
 
@@ -105,9 +105,9 @@ projects[minify][version] = "1.3"
 
 projects[media][version] = "2.0-beta1"
 
-projects[menu_attributes][version] = "1.0-rc3"
+projects[menu_attributes][version] = "1.0"
 
-projects[metatag][version] = "1.8"
+projects[metatag][version] = "1.13"
 
 projects[module_filter][version] = "2.0"
 
@@ -210,7 +210,7 @@ projects[search_krumo][version] = "1.6"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = ""
-projects[adminimal_theme][version] = "1.23"
+projects[adminimal_theme][version] = "1.24"
 
 
 
