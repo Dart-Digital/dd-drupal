@@ -25,6 +25,8 @@ defaults[projects][subdir] = "contrib"
 ; Contrib Modules
 ; =====================================
 
+projects[admin_theme][version] = "1.0"
+
 projects[advagg][version] = "2.17"
 
 projects[backup_migrate][version] = "3.1"
