@@ -128,6 +128,8 @@ projects[panelizer][version] = "3.1"
 
 projects[panels][version] = "3.5"
 
+projects[paragraphs][version] = "1.0-rc4"
+
 projects[path_redirect_import][version] = "1.0-rc4"
 
 projects[pathauto][version] = "1.3"
