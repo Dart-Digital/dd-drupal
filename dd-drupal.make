@@ -67,11 +67,11 @@ projects[entityreference][version] = "1.1"
 
 projects[fape][version] = "1.2"
 
-projects[features][version] = "2.7"
+projects[features][version] = "2.10"
 
 projects[field_collection][version] = "1.0-beta11"
 
-projects[field_group][version] = "1.4"
+projects[field_group][version] = "1.5"
 
 projects[fieldable_panels_panes][version] = "1.8"
 
@@ -83,7 +83,7 @@ projects[form_builder][version] = "1.12"
 
 projects[globalredirect][version] = "1.5"
 
-projects[google_analytics][version] = "2.1"
+projects[google_analytics][version] = "2.2"
 
 projects[honeypot][version] = "1.22"
 
@@ -93,7 +93,7 @@ projects[jquery_update][version] = "3.0-alpha3"
 
 projects[libraries][version] = "2.2"
 
-projects[link][version] = "1.3"
+projects[link][version] = "1.4"
 
 projects[linkit][version] = "3.5"
 
@@ -109,7 +109,7 @@ projects[media][version] = "2.0-beta1"
 
 projects[menu_attributes][version] = "1.0"
 
-projects[metatag][version] = "1.13"
+projects[metatag][version] = "1.14"
 
 projects[module_filter][version] = "2.0"
 
