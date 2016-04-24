@@ -50,6 +50,10 @@ projects[dd_panels][download][url] = "git://github.com/Dart-Digital/dd_panels.gi
 projects[dd_panels][download][branch] = "7.x-6.x"
 projects[dd_panels][subdir] = "dart-digital"
 
+projects[dd_fields][download][type] = "git"
+projects[dd_fields][download][url] = "git://github.com/Dart-Digital/dd_fields.git"
+projects[dd_fields][subdir] = "dart-digital"
+
 projects[dd_foundation][download][type] = "git"
 projects[dd_foundation][download][url] = "git://github.com/Dart-Digital/dd_foundation.git"
 projects[dd_foundation][download][branch] = "7.x-6.x"
