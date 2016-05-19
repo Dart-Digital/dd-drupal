@@ -154,6 +154,8 @@ projects[save_draft][version] = "1.4"
 
 projects[simplified_menu_admin][version] = "1.0"
 
+projects[site_verify][version] = "1.1"
+
 projects[smtp][version] = "1.3"
 
 projects[stage_file_proxy][version] = "1.7"
