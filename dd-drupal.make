@@ -39,6 +39,8 @@ projects[coffee][version] = "2.2"
 
 projects[configuration][version] = "2.0-alpha3"
 
+projects[date][version] = "2.9"
+
 projects[draggableviews][version] = "2.1"
 
 projects[dd_custom_component][download][type] = "git"
