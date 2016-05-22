@@ -79,7 +79,7 @@ projects[field_collection][version] = "1.0-beta11"
 
 projects[field_group][version] = "1.5"
 
-projects[fieldable_panels_panes][version] = "1.8"
+projects[fieldable_panels_panes][version] = "1.10"
 
 projects[file_entity][version] = "2.0-beta2"
 
@@ -97,7 +97,7 @@ projects[image_resize_filter][version] = "1.16"
 
 projects[jquery_update][version] = "3.0-alpha3"
 
-projects[libraries][version] = "2.2"
+projects[libraries][version] = "2.3"
 
 projects[link][version] = "1.4"
 
@@ -126,7 +126,7 @@ projects[navbar][version] = "1.7"
 projects[navbar_local_tasks][download][type] = "git"
 projects[navbar_local_tasks][download][url] = "git://github.com/Dart-Digital/navbar_local_tasks.git"
 
-projects[node_export][version] = "3.0"
+projects[node_export][version] = "3.1"
 
 projects[options_element][version] = "1.12"
 
