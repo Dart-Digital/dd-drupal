@@ -269,6 +269,11 @@ libraries[slick][directory_name] = slick
 libraries[slick][download][type] = git
 libraries[slick][download][url] = git@github.com:kenwheeler/slick.git
 
+; Library: elFinder.
+libraries[elfinder][directory_name] = elfinder
+libraries[elfinder][download][type] = get
+libraries[elfinder][download][url] = http://downloads.sourceforge.net/project/elfinder/elfinder-2.0-rc1.tar.gz
+
 ; =====================================
 ; Custom Modules
 ; =====================================
