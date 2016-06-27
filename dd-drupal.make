@@ -273,6 +273,7 @@ libraries[slick][download][url] = git@github.com:kenwheeler/slick.git
 libraries[elfinder][directory_name] = elfinder
 libraries[elfinder][download][type] = get
 libraries[elfinder][download][url] = http://downloads.sourceforge.net/project/elfinder/elfinder-1.2.zip
+libraries[elfinder][patch][] = "https://raw.githubusercontent.com/Dart-Digital/dd-drupal/master/Removing-security-issues-for-elFinder.patch"
 
 ; =====================================
 ; Custom Modules
