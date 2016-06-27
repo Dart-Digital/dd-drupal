@@ -63,6 +63,8 @@ projects[dd_foundation][subdir] = "dart-digital"
 
 projects[elements][version] = "1.4"
 
+projects[elfinder][version] = "0.8"
+
 projects[email][version] = "1.3"
 
 projects[email_registration] = "1.3"
