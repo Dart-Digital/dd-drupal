@@ -85,6 +85,8 @@ projects[fieldable_panels_panes][version] = "1.10"
 
 projects[file_entity][version] = "2.0-beta2"
 
+projects[filefield_paths][version] = "1.0"
+
 projects[fontawesome][version] = "2.5"
 
 projects[form_builder][version] = "1.12"
