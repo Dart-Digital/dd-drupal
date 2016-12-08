@@ -188,6 +188,8 @@ projects[views][version] = "3.13"
 
 projects[views_bulk_operations][version] = "3.3"
 
+projects[views_data_export][version] = "3.1"
+
 projects[webform][version] = "4.12"
 
 projects[webform_ajax][version] = "1.1"
