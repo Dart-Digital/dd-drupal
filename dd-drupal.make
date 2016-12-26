@@ -31,11 +31,11 @@ projects[advagg][version] = "2.17"
 
 projects[backup_migrate][version] = "3.1"
 
-projects[ctools][version] = "1.9"
+projects[ctools][version] = "1.12"
 
 projects[ckeditor][version] = "1.17"
 
-projects[coffee][version] = "2.2"
+projects[coffee][version] = "2.3"
 
 projects[configuration][version] = "2.0-alpha3"
 
@@ -69,9 +69,9 @@ projects[email][version] = "1.3"
 
 projects[email_registration] = "1.3"
 
-projects[entity][version] = "1.7"
+projects[entity][version] = "1.8"
 
-projects[entityreference][version] = "1.1"
+projects[entityreference][version] = "1.2"
 
 projects[fape][version] = "1.2"
 
@@ -81,19 +81,19 @@ projects[field_collection][version] = "1.0-beta11"
 
 projects[field_group][version] = "1.5"
 
-projects[fieldable_panels_panes][version] = "1.10"
+projects[fieldable_panels_panes][version] = "1.11"
 
-projects[file_entity][version] = "2.0-beta2"
+projects[file_entity][version] = "2.0-beta3"
 
 projects[filefield_paths][version] = "1.0"
 
-projects[fontawesome][version] = "2.5"
+projects[fontawesome][version] = "2.6"
 
 projects[form_builder][version] = "1.12"
 
 projects[globalredirect][version] = "1.5"
 
-projects[google_analytics][version] = "2.2"
+projects[google_analytics][version] = "2.3"
 
 projects[honeypot][version] = "1.22"
 
@@ -117,11 +117,11 @@ projects[minify][version] = "1.3"
 
 projects[migrate][version] = "2.8"
 
-projects[media][version] = "2.0-beta1"
+projects[media][version] = "2.0-rc1"
 
 projects[menu_attributes][version] = "1.0"
 
-projects[metatag][version] = "1.14"
+projects[metatag][version] = "1.18"
 
 projects[module_filter][version] = "2.0"
 
@@ -136,9 +136,9 @@ projects[node_export][version] = "3.1"
 
 projects[options_element][version] = "1.12"
 
-projects[panelizer][version] = "3.1"
+projects[panelizer][version] = "3.4"
 
-projects[panels][version] = "3.5"
+projects[panels][version] = "3.8"
 
 projects[paragraphs][version] = "1.0-rc4"
 
@@ -178,19 +178,19 @@ projects[token_custom][version] = "2.0-beta3"
 
 projects[token_filter][version] = "1.1"
 
-projects[token_modifier][version] = "1.0"
+projects[token_modifier][version] = "1.1"
 
 projects[transliteration][version] = "3.2"
 
-projects[uuid][version] = "1.0-beta1"
+projects[uuid][version] = "1.0-beta2"
 
-projects[views][version] = "3.13"
+projects[views][version] = "3.14"
 
 projects[views_bulk_operations][version] = "3.3"
 
 projects[views_data_export][version] = "3.1"
 
-projects[webform][version] = "4.12"
+projects[webform][version] = "4.14"
 
 projects[webform_ajax][version] = "1.1"
 
@@ -203,7 +203,7 @@ projects[webform_phone][version] = "1.23"
 
 projects[xautoload][version] = "5.2"
 
-projects[xmlsitemap][version] = "2.2"
+projects[xmlsitemap][version] = "2.3"
 
 
 
