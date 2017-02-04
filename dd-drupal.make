@@ -9,7 +9,7 @@ api = 2
 ; We don't specify a core version as this is usually handled by Pantheon or
 ; another upstream repository.
 ; Use '--no-core' with drush make to prevent "No core project specified." error.
-; projects[drupal][version] = "7.40"
+; projects[drupal][version] = "7.54"
 
 
 ; =====================================
@@ -119,11 +119,11 @@ projects[minify][version] = "1.3"
 
 projects[migrate][version] = "2.8"
 
-projects[media][version] = "2.0-rc1"
+projects[media][version] = "2.0-rc5"
 
 projects[menu_attributes][version] = "1.0"
 
-projects[metatag][version] = "1.18"
+projects[metatag][version] = "1.20"
 
 projects[module_filter][version] = "2.0"
 
@@ -174,7 +174,7 @@ projects[strongarm][version] = "2.0"
 
 projects[subpathauto][version] = "1.3"
 
-projects[token][version] = "1.6"
+projects[token][version] = "1.7"
 
 projects[token_custom][version] = "2.0-beta3"
 
