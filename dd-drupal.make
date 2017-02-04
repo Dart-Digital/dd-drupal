@@ -99,6 +99,8 @@ projects[honeypot][version] = "1.22"
 
 projects[image_resize_filter][version] = "1.16"
 
+projects[imageapi_optimize][version] = "1.2"
+
 projects[jquery_update][version] = "3.0-alpha3"
 
 projects[libraries][version] = "2.3"
