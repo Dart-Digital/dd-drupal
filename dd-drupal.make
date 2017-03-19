@@ -31,6 +31,8 @@ projects[advagg][version] = "2.17"
 
 projects[backup_migrate][version] = "3.1"
 
+projects[cloudflare][version] = "1.0-beta4"
+
 projects[ctools][version] = "1.12"
 
 projects[ckeditor][version] = "1.17"
