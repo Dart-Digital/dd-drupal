@@ -144,7 +144,7 @@ projects[panelizer][version] = "3.4"
 
 projects[panels][version] = "3.8"
 
-projects[paragraphs][version] = "1.0-rc4"
+projects[paragraphs][version] = "1.0-rc5"
 
 projects[path_redirect_import][version] = "1.0-rc4"
 
