@@ -1,7 +1,6 @@
 core = 7.x
 api = 2
 
-
 ; =====================================
 ; Drupal Core
 ; =====================================
@@ -79,7 +78,7 @@ projects[fape][version] = "1.2"
 
 projects[features][version] = "2.10"
 
-projects[field_collection][version] = "1.0-beta11"
+projects[field_collection][version] = "1.0-beta12"
 
 projects[field_group][version] = "1.5"
 
@@ -103,7 +102,7 @@ projects[image_resize_filter][version] = "1.16"
 
 projects[imageapi_optimize][version] = "1.2"
 
-projects[jquery_update][version] = "3.0-alpha3"
+projects[jquery_update][version] = "3.0-alpha5"
 
 projects[libraries][version] = "2.3"
 
@@ -121,11 +120,11 @@ projects[minify][version] = "1.3"
 
 projects[migrate][version] = "2.8"
 
-projects[media][version] = "2.0-rc5"
+projects[media][version] = "2.0-rc12"
 
 projects[menu_attributes][version] = "1.0"
 
-projects[metatag][version] = "1.20"
+projects[metatag][version] = "1.21"
 
 projects[module_filter][version] = "2.0"
 
@@ -142,7 +141,7 @@ projects[options_element][version] = "1.12"
 
 projects[panelizer][version] = "3.4"
 
-projects[panels][version] = "3.8"
+projects[panels][version] = "3.9"
 
 projects[paragraphs][version] = "1.0-rc5"
 
@@ -188,9 +187,9 @@ projects[transliteration][version] = "3.2"
 
 projects[uuid][version] = "1.0-beta2"
 
-projects[views][version] = "3.14"
+projects[views][version] = "3.16"
 
-projects[views_bulk_operations][version] = "3.3"
+projects[views_bulk_operations][version] = "3.4"
 
 projects[views_data_export][version] = "3.1"
 
