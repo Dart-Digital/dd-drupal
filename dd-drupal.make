@@ -40,7 +40,7 @@ projects[coffee][version] = "2.3"
 
 projects[configuration][version] = "2.0-alpha3"
 
-projects[date][version] = "2.9"
+projects[date][version] = "2.10"
 
 projects[draggableviews][version] = "2.1"
 
@@ -72,7 +72,7 @@ projects[email_registration] = "1.3"
 
 projects[entity][version] = "1.8"
 
-projects[entityreference][version] = "1.2"
+projects[entityreference][version] = "1.3"
 
 projects[fape][version] = "1.2"
 
@@ -120,7 +120,7 @@ projects[minify][version] = "1.3"
 
 projects[migrate][version] = "2.8"
 
-projects[media][version] = "2.0-rc12"
+projects[media][version] = "2.1"
 
 projects[menu_attributes][version] = "1.0"
 
@@ -185,7 +185,7 @@ projects[token_modifier][version] = "1.1"
 
 projects[transliteration][version] = "3.2"
 
-projects[uuid][version] = "1.0-beta2"
+projects[uuid][version] = "1.0"
 
 projects[views][version] = "3.16"
 
