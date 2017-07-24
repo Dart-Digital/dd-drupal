@@ -34,7 +34,7 @@ projects[cloudflare][version] = "1.0-beta4"
 
 projects[ctools][version] = "1.12"
 
-projects[ckeditor][version] = "1.17"
+projects[ckeditor][version] = "1.18"
 
 projects[coffee][version] = "2.3"
 
@@ -120,7 +120,7 @@ projects[minify][version] = "1.3"
 
 projects[migrate][version] = "2.8"
 
-projects[media][version] = "2.1"
+projects[media][version] = "2.9"
 
 projects[menu_attributes][version] = "1.0"
 
