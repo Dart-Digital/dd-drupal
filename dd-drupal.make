@@ -84,7 +84,7 @@ projects[field_group][version] = "1.5"
 
 projects[fieldable_panels_panes][version] = "1.11"
 
-projects[file_entity][version] = "2.0-beta3"
+projects[file_entity][version] = "2.3"
 
 projects[filefield_paths][version] = "1.0"
 
