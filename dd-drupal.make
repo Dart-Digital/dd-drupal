@@ -122,6 +122,8 @@ projects[migrate][version] = "2.8"
 
 projects[media][version] = "2.9"
 
+projects[media_ckeditor][version] = "2.1"
+
 projects[menu_attributes][version] = "1.0"
 
 projects[metatag][version] = "1.21"
