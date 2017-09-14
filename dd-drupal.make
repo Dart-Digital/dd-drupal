@@ -134,6 +134,8 @@ projects[multiform][version] = "1.1"
 
 projects[navbar][version] = "1.7"
 
+projects[navbar_flush_cache][version] = "1.x-dev"
+
 projects[navbar_local_tasks][download][type] = "git"
 projects[navbar_local_tasks][download][url] = "git://github.com/Dart-Digital/navbar_local_tasks.git"
 
