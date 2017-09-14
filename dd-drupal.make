@@ -72,7 +72,7 @@ projects[email_registration] = "1.3"
 
 projects[entity][version] = "1.8"
 
-projects[entityreference][version] = "1.3"
+projects[entityreference][version] = "1.5"
 
 projects[fape][version] = "1.2"
 
@@ -84,7 +84,7 @@ projects[field_group][version] = "1.5"
 
 projects[fieldable_panels_panes][version] = "1.11"
 
-projects[file_entity][version] = "2.3"
+projects[file_entity][version] = "2.4"
 
 projects[filefield_paths][version] = "1.0"
 
@@ -120,15 +120,15 @@ projects[minify][version] = "1.3"
 
 projects[migrate][version] = "2.8"
 
-projects[media][version] = "2.9"
+projects[media][version] = "2.11"
 
-projects[media_ckeditor][version] = "2.1"
+projects[media_ckeditor][version] = "2.5"
 
 projects[menu_attributes][version] = "1.0"
 
-projects[metatag][version] = "1.21"
+projects[metatag][version] = "1.22"
 
-projects[module_filter][version] = "2.0"
+projects[module_filter][version] = "2.1"
 
 projects[multiform][version] = "1.1"
 
@@ -167,9 +167,9 @@ projects[save_draft][version] = "1.4"
 
 projects[simplified_menu_admin][version] = "1.0"
 
-projects[site_verify][version] = "1.1"
+projects[site_verify][version] = "1.2"
 
-projects[smtp][version] = "1.6"
+projects[smtp][version] = "1.7"
 
 projects[stage_file_proxy][version] = "1.7"
 
@@ -189,20 +189,19 @@ projects[transliteration][version] = "3.2"
 
 projects[uuid][version] = "1.0"
 
-projects[views][version] = "3.16"
+projects[views][version] = "3.18"
 
 projects[views_bulk_operations][version] = "3.4"
 
 projects[views_data_export][version] = "3.1"
 
-projects[webform][version] = "4.14"
+projects[webform][version] = "4.15"
 
 projects[webform_ajax][version] = "1.1"
 
 projects[webform_hints][version] = "1.5"
 
-projects[webform_panels][version] = "1.0"
-projects[webform_panels][patch][] = "https://www.drupal.org/files/issues/notice-2576627-1.patch"
+projects[webform_panels][version] = "1.1"
 
 projects[webform_phone][version] = "1.23"
 
