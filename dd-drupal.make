@@ -100,7 +100,7 @@ projects[honeypot][version] = "1.22"
 
 projects[image_resize_filter][version] = "1.16"
 
-projects[imageapi_optimize][version] = "1.2"
+projects[imageapi_optimize][version] = "1.3"
 
 projects[jquery_update][version] = "3.0-alpha5"
 
@@ -116,7 +116,7 @@ projects[manualcrop][version] = "1.5"
 
 projects[masquerade][version] = "1.0-rc7"
 
-projects[minify][version] = "1.3"
+projects[minify][version] = "1.4"
 
 projects[migrate][version] = "2.8"
 
