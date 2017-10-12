@@ -167,6 +167,8 @@ projects[remote_stream_wrapper][version] = "1.0-rc1"
 
 projects[save_draft][version] = "1.4"
 
+projects[seckit][version] = "1.9"
+
 projects[simplified_menu_admin][version] = "1.0"
 
 projects[site_verify][version] = "1.2"
