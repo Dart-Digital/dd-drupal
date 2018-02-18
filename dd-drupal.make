@@ -28,11 +28,11 @@ projects[admin_theme][version] = "1.0"
 
 projects[advagg][version] = "2.17"
 
-projects[backup_migrate][version] = "3.1"
+projects[backup_migrate][version] = "3.5"
 
 projects[cloudflare][version] = "1.0-beta4"
 
-projects[ctools][version] = "1.12"
+projects[ctools][version] = "1.13"
 
 projects[ckeditor][version] = "1.18"
 
@@ -70,7 +70,7 @@ projects[email][version] = "1.3"
 
 projects[email_registration] = "1.3"
 
-projects[entity][version] = "1.8"
+projects[entity][version] = "1.9"
 
 projects[entityreference][version] = "1.5"
 
@@ -80,21 +80,21 @@ projects[features][version] = "2.10"
 
 projects[field_collection][version] = "1.0-beta12"
 
-projects[field_group][version] = "1.5"
+projects[field_group][version] = "1.6"
 
 projects[fieldable_panels_panes][version] = "1.11"
 
-projects[file_entity][version] = "2.4"
+projects[file_entity][version] = "2.16"
 
 projects[filefield_paths][version] = "1.0"
 
-projects[fontawesome][version] = "2.6"
+projects[fontawesome][version] = "2.7"
 
 projects[form_builder][version] = "1.12"
 
-projects[globalredirect][version] = "1.5"
+projects[globalredirect][version] = "1.6"
 
-projects[google_analytics][version] = "2.3"
+projects[google_analytics][version] = "2.4"
 
 projects[honeypot][version] = "1.22"
 
@@ -116,11 +116,11 @@ projects[manualcrop][version] = "1.5"
 
 projects[masquerade][version] = "1.0-rc7"
 
-projects[minify][version] = "1.4"
+projects[minify][version] = "1.5"
 
 projects[migrate][version] = "2.8"
 
-projects[media][version] = "2.11"
+projects[media][version] = "2.16"
 
 projects[media_ckeditor][version] = "2.5"
 
@@ -201,7 +201,7 @@ projects[views_bulk_operations][version] = "3.4"
 
 projects[views_data_export][version] = "3.2"
 
-projects[webform][version] = "4.15"
+projects[webform][version] = "4.16"
 
 projects[webform_ajax][version] = "1.1"
 
