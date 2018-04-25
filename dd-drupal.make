@@ -32,7 +32,7 @@ projects[backup_migrate][version] = "3.5"
 
 projects[cloudflare][version] = "1.0-beta4"
 
-projects[ctools][version] = "1.13"
+projects[ctools][version] = "1.14"
 
 projects[ckeditor][version] = "1.18"
 
@@ -62,7 +62,7 @@ projects[dd_foundation][download][url] = "git://github.com/Dart-Digital/dd_found
 projects[dd_foundation][download][branch] = "7.x-6.x"
 projects[dd_foundation][subdir] = "dart-digital"
 
-projects[elements][version] = "1.4"
+projects[elements][version] = "1.5"
 
 projects[elfinder][version] = "0.8"
 
@@ -84,11 +84,11 @@ projects[field_group][version] = "1.6"
 
 projects[fieldable_panels_panes][version] = "1.11"
 
-projects[file_entity][version] = "2.16"
+projects[file_entity][version] = "2.20"
 
 projects[filefield_paths][version] = "1.0"
 
-projects[fontawesome][version] = "2.7"
+projects[fontawesome][version] = "2.8"
 
 projects[form_builder][version] = "1.12"
 
@@ -118,15 +118,15 @@ projects[masquerade][version] = "1.0-rc7"
 
 projects[minify][version] = "1.5"
 
-projects[migrate][version] = "2.8"
+projects[migrate][version] = "2.9"
 
-projects[media][version] = "2.16"
+projects[media][version] = "2.19"
 
 projects[media_ckeditor][version] = "2.5"
 
 projects[menu_attributes][version] = "1.0"
 
-projects[metatag][version] = "1.22"
+projects[metatag][version] = "1.25"
 
 projects[module_filter][version] = "2.1"
 
@@ -177,7 +177,7 @@ projects[site_verify][version] = "1.2"
 
 projects[smtp][version] = "1.7"
 
-projects[stage_file_proxy][version] = "1.7"
+projects[stage_file_proxy][version] = "1.8"
 
 projects[strongarm][version] = "2.0"
 
@@ -195,13 +195,13 @@ projects[transliteration][version] = "3.2"
 
 projects[uuid][version] = "1.0"
 
-projects[views][version] = "3.18"
+projects[views][version] = "3.20"
 
 projects[views_bulk_operations][version] = "3.4"
 
 projects[views_data_export][version] = "3.2"
 
-projects[webform][version] = "4.16"
+projects[webform][version] = "4.17"
 
 projects[webform_ajax][version] = "1.1"
 
@@ -226,7 +226,7 @@ projects[bugherd][subdir] = "dev"
 projects[bugherd][version] = "1.0-beta4"
 
 projects[devel][subdir] = "dev"
-projects[devel][version] = "1.5"
+projects[devel][version] = "1.6"
 
 projects[search_krumo][subdir] = "dev"
 projects[search_krumo][version] = "1.6"
