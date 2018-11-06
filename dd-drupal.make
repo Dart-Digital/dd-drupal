@@ -169,7 +169,7 @@ projects[save_draft][version] = "1.4"
 
 projects[scheduler][version] = "1.5"
 
-projects[seckit][version] = "1.9"
+projects[seckit][version] = "1.10"
 
 projects[simplified_menu_admin][version] = "1.0"
 
