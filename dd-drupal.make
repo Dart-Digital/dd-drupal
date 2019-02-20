@@ -106,7 +106,7 @@ projects[jquery_update][version] = "3.0-alpha5"
 
 projects[libraries][version] = "2.3"
 
-projects[link][version] = "1.4"
+projects[link][version] = "1.6"
 
 projects[linkit][version] = "3.5"
 
