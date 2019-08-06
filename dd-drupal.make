@@ -28,11 +28,11 @@ projects[admin_theme][version] = "1.0"
 
 projects[advagg][version] = "2.17"
 
-projects[backup_migrate][version] = "3.5"
+projects[backup_migrate][version] = "3.6"
 
 projects[cloudflare][version] = "1.0-beta4"
 
-projects[ctools][version] = "1.14"
+projects[ctools][version] = "1.15"
 
 projects[ckeditor][version] = "1.18"
 
@@ -68,7 +68,7 @@ projects[elfinder][version] = "0.8"
 
 projects[email][version] = "1.3"
 
-projects[email_registration] = "1.3"
+projects[email_registration] = "1.4"
 
 projects[entity][version] = "1.9"
 
@@ -76,19 +76,19 @@ projects[entityreference][version] = "1.5"
 
 projects[fape][version] = "1.2"
 
-projects[features][version] = "2.10"
+projects[features][version] = "2.11"
 
-projects[field_collection][version] = "1.0-beta12"
+projects[field_collection][version] = "1.0-beta13"
 
 projects[field_group][version] = "1.6"
 
-projects[fieldable_panels_panes][version] = "1.11"
+projects[fieldable_panels_panes][version] = "1.13"
 
-projects[file_entity][version] = "2.20"
+projects[file_entity][version] = "2.25"
 
 projects[filefield_paths][version] = "1.0"
 
-projects[fontawesome][version] = "2.8"
+projects[fontawesome][version] = "2.9"
 
 projects[form_builder][version] = "1.12"
 
@@ -104,7 +104,7 @@ projects[imageapi_optimize][version] = "1.3"
 
 projects[jquery_update][version] = "3.0-alpha5"
 
-projects[libraries][version] = "2.3"
+projects[libraries][version] = "2.5"
 
 projects[link][version] = "1.6"
 
@@ -118,17 +118,17 @@ projects[masquerade][version] = "1.0-rc7"
 
 projects[minify][version] = "1.5"
 
-projects[migrate][version] = "2.9"
+projects[migrate][version] = "2.11"
 
-projects[media][version] = "2.19"
+projects[media][version] = "2.23"
 
-projects[media_ckeditor][version] = "2.5"
+projects[media_ckeditor][version] = "2.10"
 
 projects[menu_attributes][version] = "1.0"
 
 projects[metatag][version] = "1.25"
 
-projects[module_filter][version] = "2.1"
+projects[module_filter][version] = "2.2"
 
 projects[multiform][version] = "1.1"
 
@@ -163,13 +163,13 @@ projects[quicktabs][version] = "3.6"
 
 projects[redirect][version] = "1.0-rc3"
 
-projects[remote_stream_wrapper][version] = "1.0-rc1"
+projects[remote_stream_wrapper][version] = "1.0"
 
 projects[save_draft][version] = "1.4"
 
 projects[scheduler][version] = "1.5"
 
-projects[seckit][version] = "1.10"
+projects[seckit][version] = "1.11"
 
 projects[simplified_menu_admin][version] = "1.0"
 
@@ -177,7 +177,7 @@ projects[site_verify][version] = "1.2"
 
 projects[smtp][version] = "1.7"
 
-projects[stage_file_proxy][version] = "1.8"
+projects[stage_file_proxy][version] = "1.9"
 
 projects[strongarm][version] = "2.0"
 
@@ -185,7 +185,7 @@ projects[subpathauto][version] = "1.3"
 
 projects[token][version] = "1.7"
 
-projects[token_custom][version] = "2.0-beta3"
+projects[token_custom][version] = "2.0"
 
 projects[token_filter][version] = "1.1"
 
@@ -193,15 +193,15 @@ projects[token_modifier][version] = "1.1"
 
 projects[transliteration][version] = "3.2"
 
-projects[uuid][version] = "1.0"
+projects[uuid][version] = "1.3"
 
-projects[views][version] = "3.20"
+projects[views][version] = "3.23"
 
-projects[views_bulk_operations][version] = "3.4"
+projects[views_bulk_operations][version] = "3.5"
 
 projects[views_data_export][version] = "3.2"
 
-projects[webform][version] = "4.17"
+projects[webform][version] = "4.19"
 
 projects[webform_ajax][version] = "1.1"
 
@@ -213,7 +213,7 @@ projects[webform_phone][version] = "1.23"
 
 projects[xautoload][version] = "5.2"
 
-projects[xmlsitemap][version] = "2.3"
+projects[xmlsitemap][version] = "2.6"
 
 
 
@@ -226,7 +226,7 @@ projects[bugherd][subdir] = "dev"
 projects[bugherd][version] = "1.0-beta4"
 
 projects[devel][subdir] = "dev"
-projects[devel][version] = "1.6"
+projects[devel][version] = "1.7"
 
 projects[search_krumo][subdir] = "dev"
 projects[search_krumo][version] = "1.6"
@@ -240,7 +240,7 @@ projects[search_krumo][version] = "1.6"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = ""
-projects[adminimal_theme][version] = "1.24"
+projects[adminimal_theme][version] = "1.26"
 
 
 
